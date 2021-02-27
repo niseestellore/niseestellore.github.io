@@ -591,3 +591,10 @@ button:focus,
 .portfolio-info p {
     margin-bottom: 0px;
 }
+.glyphicon-chevron-left:before, .glyphicon-chevron-right:before{
+    content: none!important;
+}
+
+.portfolio-info p {
+    color: #FFC107;
+}
